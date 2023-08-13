@@ -12,4 +12,4 @@ rev=c+rev;
 system.out.println(rev);
 }
 }
-string
+string reverse
