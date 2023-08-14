@@ -11,4 +11,4 @@ rev=c+rev;
 system.out.println(rev);
 }
 }
-string reverse"C:\Users\nihalataskeen\Downloads\log.txt"
+string reverse
